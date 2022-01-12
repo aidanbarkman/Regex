@@ -1,0 +1,11 @@
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\obj\Debug\netcoreapp2.1\RegExAssignment.csprojAssemblyReference.cache
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\obj\Debug\netcoreapp2.1\RegExAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\obj\Debug\netcoreapp2.1\RegExAssignment.AssemblyInfoInputs.cache
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\obj\Debug\netcoreapp2.1\RegExAssignment.AssemblyInfo.cs
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\bin\Debug\netcoreapp2.1\RegExAssignment.deps.json
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\bin\Debug\netcoreapp2.1\RegExAssignment.runtimeconfig.json
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\bin\Debug\netcoreapp2.1\RegExAssignment.runtimeconfig.dev.json
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\bin\Debug\netcoreapp2.1\RegExAssignment.dll
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\bin\Debug\netcoreapp2.1\RegExAssignment.pdb
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\obj\Debug\netcoreapp2.1\RegExAssignment.dll
+C:\Users\aidan\source\repos\RegExAssignment\RegExAssignment\obj\Debug\netcoreapp2.1\RegExAssignment.pdb
